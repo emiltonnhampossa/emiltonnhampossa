@@ -7,7 +7,7 @@ Sou Full Stack developer, super apaixonado por programação, e atualmente estud
 
 📧  Entre em contacto comigo: 
 
-[![Likeden](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://emiltonportifolio.com)
+[![Likeden](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilton-francisco-nhampossa-254a76254/)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)](https://emiltonnhampossa0@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://emiltonportifolio.com)
 
