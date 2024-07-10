@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Emilton Nhampossa 👋🏾
 
-Software Engineer and App Developer
+Software Engineer and Full stack Developer
 
 💜Procuro colaborar em projetos com Flutter.
 
