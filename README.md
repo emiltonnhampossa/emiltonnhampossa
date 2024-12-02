@@ -2,7 +2,7 @@
 
 Software Engineer and Full stack Developer
 
-💜Procuro colaborar em projetos com Flutter.
+💜Procuro colaborar em projetos com Next js, laravel e flutter.
 
 
 📧  Entre em contacto comigo: 
